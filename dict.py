@@ -1,4 +1,4 @@
-# USE DICTS FOR CREATING NESTED STRUCTS
+# USE DICTS FOR CREATING NESTED STRUCTS OR FAST LOOKUPS
 
 # Creating
 my_dict = {"name": "Alice", "age": 30, "city": "New York"} # from scratch
