@@ -1,0 +1,15 @@
+{
+    "name": "Smith", 
+    "interests": ["maths", "programming"], 
+    "age": 25, 
+    "courses": [ 
+        {
+            "name": "Python", 
+            "term": 1
+        }, 
+        {
+            "name": "Soft Eng", 
+            "term": 2
+        } 
+    ] 
+}
