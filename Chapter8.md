@@ -25,3 +25,9 @@ Class Methods (equivalent to static methods in Cpp)
 
 Static Methods (not the same as static methods in Cpp)
 - A regular function defined in the scope of a class that does not have access to the class's attributes
+
+The 4 Main Concepts of OOP: APIE
+Abstraction     can model your program as high-level objects with properties and methods interacting with each other. There is no need for objects to know the details about how methods are implemented. They only need to know what an object can do.
+Polymorphism    can override methods of a superclass to change how it behaves, for example using abstract classes.
+Inheritance     can extend the features of an object without having to modify its code.
+Encapsulation   can choose to expose only the attributes that are necessarily accessed externally.
